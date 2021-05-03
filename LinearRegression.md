@@ -1,4 +1,5 @@
 ỨNG DỤNG CỦA LINEARREGRESSION TRONG ĐỜI SỐNG THỰC TẾ
+
 Bài toán dự đoán tăng trưởng dân số.
 - input: mức sống, điều kiên sinh hoạt, tỉ lệ giới tính.
 - output: dự đoán số dân số.
